@@ -5,7 +5,7 @@ Lorem ipsum blah blah blah
 Prereqs
   - tsc
   - node
-  - npm account instructions
+  - npm account instructions (https://betterprogramming.pub/how-to-create-and-publish-react-typescript-npm-package-with-demo-and-automated-build-80c40ec28aca#a15d)
 
 
 
@@ -24,6 +24,8 @@ TODO
 - import aliasing
 - tests - ignore dist files
 - add husky for precommit tests to run
+- semvar
+- improve git ignore
 - prereqs
   - tsc
   - node
